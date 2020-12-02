@@ -32,11 +32,3 @@ body {
   flex-wrap: wrap;
   justify-content: center;
 }
-
-.CardContainer {
-  width: 300px;
-  margin: 8px;
-  border: 1px solid #000;
-  overflow: hidden;
-  background-color: white;
-}
