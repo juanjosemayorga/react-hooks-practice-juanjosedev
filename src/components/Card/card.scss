@@ -1,7 +1,7 @@
 .card {
   display: flex;
   flex-direction: column;
-  width: 300px;
+  width: 250px;
   margin: 12px;
   overflow: hidden;
   border-radius: 4px;
@@ -11,6 +11,7 @@
   &__image {
     object-position: center;
     object-fit: cover;
+    height: 250px;
   }
   &__name {
     text-align: center;
